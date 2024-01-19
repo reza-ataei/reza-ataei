@@ -9,11 +9,11 @@
   &nbsp;
   <a href= "https://flutter.dev/"><img src="/resources/flutter.png" style="width: 32px; height: 32px"/></a>
   &nbsp;
-  <a href= "https://twitter.com/antopelusi"><img src="/resources/twitter.png" style="width: 32px; height: 32px"/></a>
+  <a href= "https://www.java.com/en/"><img src="/resources/java.jpg" style="width: 32px; height: 32px"/></a>
   &nbsp;
-  <a href= "https://t.me/antoniopelusi"><img src="/resources/telegram.png" style="width: 32px; height: 32px"/></a>
+  <a href= "https://www.android.com/"><img src="/resources/Android.png" style="width: 32px; height: 32px"/></a>
   &nbsp;
-  <a href= "mailto:antoniopelusi2000@gmail.com"><img src="/resources/mail.png" style="width: 32px; height: 32px"/></a>
+  <a href= "https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="/resources/sqlServer.png" style="width: 32px; height: 32px"/></a>
 </p>
 
 <img src="/resources/waves.svg" width="100%" height="150">
