@@ -11,7 +11,7 @@
   &nbsp;
   <a href= "https://www.java.com/en/"><img src="/resources/java.jpg" style="width: 32px; height: 32px"/></a>
   &nbsp;
-  <a href= "https://www.android.com/"><img src="/resources/Android.png" style="width: 32px; height: 32px"/></a>
+  <a href= "https://www.android.com/"><img src="/resources/android.png" style="width: 32px; height: 32px"/></a>
   &nbsp;
   <a href= "https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="/resources/sqlServer.png" style="width: 32px; height: 32px"/></a>
 </p>
