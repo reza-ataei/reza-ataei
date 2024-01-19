@@ -5,7 +5,7 @@
 <p>   🎯 My Skills</p>
 
 <p align="left">
-  <a href= "https://dart.dev/"><img src="/resources/dart.jpg" style="width: 32px; height: 32px; border-radius: 20px 20px 20px 20px"/></a>
+  <a href= "https://dart.dev/"><img src="/resources/dart.jpg" style="width: 32px; height: 32px; border-radius: 20px"/></a>
   &nbsp;
   <a href= "https://flutter.dev/"><img src="/resources/flutter.png" style="width: 32px; height: 32px"/></a>
   &nbsp;
