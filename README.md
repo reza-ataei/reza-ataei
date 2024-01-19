@@ -4,10 +4,10 @@
 
 <p>   🎯 My Skills</p>
 
-<p align="right">
+<p align="left">
   <a href= "https://dart.dev/"><img src="/resources/dart.jpg" style="width: 32px; height: 32px"/></a>
   &nbsp;
-  <a href= "https://www.linkedin.com/in/antoniopelusi/"><img src="/resources/linkedin.png" style="width: 32px; height: 32px"/></a>
+  <a href= "https://flutter.dev/"><img src="/resources/flutter.png" style="width: 32px; height: 32px"/></a>
   &nbsp;
   <a href= "https://twitter.com/antopelusi"><img src="/resources/twitter.png" style="width: 32px; height: 32px"/></a>
   &nbsp;
